@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
 /**
- * @author Larissa Perkins
- * BU MET 342
- * Due April 9, 2015
- * Project 2: Recursive 8 Queens
+ * @author Larissa Morrell
+ * April 9, 2015
+ * Recursive 8 Queens
+ * 
+ * Copyright (C) 2015 Larissa Morrell - All Rights Reserved
  */
 
 public class Driver {
